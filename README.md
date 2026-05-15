@@ -1,4 +1,4 @@
-To transition from a multi-language recent graduate software engineer into a job-ready Python backend developer, capable of building scalable APIs, automation tools, and production-ready backend systems.
+I am improving my Python skills and using it as my main programming language, as part of my learning journey into backend development and real-world project building.
 
 everyday time spent:
 
