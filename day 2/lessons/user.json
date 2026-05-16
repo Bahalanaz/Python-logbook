@@ -1,0 +1,32 @@
+[
+    {
+        "name": "kith",
+        "role": "admin",
+        "email": "kith"
+    },
+    {
+        "name": "alex",
+        "role": "user",
+        "email": "alex"
+    },
+    {
+        "name": "kith",
+        "role": "admin",
+        "email": "kith@yahoo.com"
+    },
+    {
+        "name": "alex",
+        "role": "user",
+        "email": "alex@yahoo.com"
+    },
+    {
+        "name": "john",
+        "role": "user",
+        "email": "john@yahoo.com"
+    },
+    {
+        "name": "cena",
+        "role": "user",
+        "email": "cena@yahoo.com"
+    }
+]
