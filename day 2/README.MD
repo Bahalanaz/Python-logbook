@@ -1,4 +1,4 @@
-# 👤 User Management System (Python + File Handling + OOP)
+# 👤 User Management System (Python + File Handling + OOP) 
 
 This repository documents my progress in learning Python backend fundamentals by building a **CLI-based User Management System** with persistent data storage using JSON.
 
