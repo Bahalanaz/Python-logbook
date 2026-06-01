@@ -1,0 +1,68 @@
+.Card {
+    border: 1px solid black;
+    border-radius: 10px;
+    box-shadow: 5px 5px 5px rgba(0, 0, 0, 0.12);
+    margin: 10px;
+    padding: 10px;
+    display: inline-block;
+    text-align: center;
+}
+
+.Card .Card-image{
+    max-width: 60%;
+    height: auto;
+    margin-bottom: 10px;
+}
+
+.Card .Card-title{
+    font-family: Arial, Helvetica, sans-serif;
+    margin: 0;
+    color: black;
+}
+
+.Card .Card-text{
+    font-family: Arial, Helvetica, sans-serif;
+    margin: 0;
+    color: black;
+}
+.Button {
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    gap: 8px;
+    padding: 10px 16px;
+    min-width: 120px;
+    font-size: 14px;
+    font-weight: 600;
+    letter-spacing: 0.3px;
+    background: linear-gradient(135deg, #6a11cb, #2575fc);
+    color: white;
+    border: none;
+    border-radius: 10px;
+    cursor: pointer;
+    transition: all 0.25s ease;
+    box-shadow: 0 6px 15px rgba(0, 0, 0, 0.2);
+    user-select: none;
+}
+
+.Button:hover {
+    transform: translateY(-2px);
+    box-shadow: 0 10px 25px rgba(0, 0, 0, 0.25);
+}
+
+.Button:active {
+    transform: translateY(0px) scale(0.98);
+    box-shadow: 0 5px 12px rgba(0, 0, 0, 0.2);
+}
+
+.Button:disabled {
+    opacity: 0.5;
+    cursor: not-allowed;
+    transform: none;
+    box-shadow: none;
+}
+
+.Button:focus-visible {
+    outline: 3px solid rgba(37, 117, 252, 0.5);
+    outline-offset: 2px;
+}
