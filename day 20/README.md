@@ -1,7 +1,6 @@
 # React State & Events Practice Project
 
 This repository documents my progress in learning React fundamentals through hands-on practice with state management, event handling, and controlled components.
-
 ---
 
 ## 🚀 Project Overview
