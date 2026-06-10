@@ -1,14 +1,8 @@
-# ⚛️ React UI Components Project (Cards, Buttons & Component Structure)
 
-This repository documents my progress in building a foundational **React frontend UI system** using functional components, CSS styling, modular design, and basic UI composition.
 
-This project represents an early step into frontend development using React, focusing on component-based architecture, reusable UI elements, and styling fundamentals similar to real-world frontend applications.
+# 🚀 Folder Overview
 
----
-
-# 🚀 Project Overview
-
-In this project, I built a simple React UI system that includes:
+In this Folder, I built a simple React UI system that includes:
 
 - Functional React components (Header, Footer, Card, Button, Food)
 - Component-based architecture (reusable UI blocks)
@@ -18,7 +12,7 @@ In this project, I built a simple React UI system that includes:
 - Basic JSX syntax and expression usage
 - Simple layout composition using multiple components
 
-This project simulates how real frontend applications are structured using reusable UI components.
+This Folder simulates how real frontend applications are structured using reusable UI components.
 
 ---
 
